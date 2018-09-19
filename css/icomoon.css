@@ -1,0 +1,107 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('../fonts/icomoon.eot?g1rio7');
+  src:  url('../fonts/icomoon.eot?g1rio7#iefix') format('embedded-opentype'),
+    url('../fonts/icomoon.ttf?g1rio7') format('truetype'),
+    url('../fonts/icomoon.woff?g1rio7') format('woff'),
+    url('../fonts/icomoon.svg?g1rio7#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-blog .path1:before {
+  content: "\e900";
+  color: rgb(0, 0, 0);
+}
+.icon-blog .path2:before {
+  content: "\e901";
+  margin-left: -1em;
+  color: rgb(199, 178, 153);
+}
+.icon-cup .path1:before {
+  content: "\e902";
+  color: rgb(0, 0, 0);
+}
+.icon-cup .path2:before {
+  content: "\e903";
+  margin-left: -1.0908203125em;
+  color: rgb(199, 178, 153);
+}
+.icon-gayka .path1:before {
+  content: "\e904";
+  color: rgb(0, 0, 0);
+}
+.icon-gayka .path2:before {
+  content: "\e905";
+  margin-left: -1em;
+  color: rgb(85, 85, 85);
+}
+.icon-launch .path1:before {
+  content: "\e906";
+  color: rgb(0, 0, 0);../
+}
+.icon-launch .path2:before {
+  content: "\e907";
+  margin-left: -1.2275390625em;
+  color: rgb(199, 178, 153);
+}
+.icon-layers .path1:before {
+  content: "\e908";
+  color: rgb(0, 0, 0);
+}
+.icon-layers .path2:before {
+  content: "\e909";
+  margin-left: -1.099609375em;
+  color: #555555;
+}
+.icon-like .path1:before {
+  content: "\e90a";
+  color: rgb(0, 0, 0);
+}
+.icon-like .path2:before {
+  content: "\e90b";
+  margin-left: -1em;
+  color: rgb(199, 178, 153);
+}
+.icon-papka .path1:before {
+  content: "\e90c";
+  color: rgb(0, 0, 0);
+}
+.icon-papka .path2:before {
+  content: "\e90d";
+  margin-left: -1.4443359375em;
+  color: rgb(85, 85, 85);
+}
+.icon-pen .path1:before {
+  content: "\e90e";
+  color: rgb(0, 0, 0);
+}
+.icon-pen .path2:before {
+  content: "\e90f";
+  margin-left: -1em;
+  color: rgb(85, 85, 85);
+}
+.icon-users .path1:before {
+  content: "\e910";
+  color: rgb(0, 0, 0);
+}
+.icon-users .path2:before {
+  content: "\e911";
+  margin-left: -1em;
+  color: rgb(199, 178, 153);
+}
